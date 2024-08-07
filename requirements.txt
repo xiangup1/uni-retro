@@ -1,0 +1,9 @@
+rdkit
+torch
+numba
+transformers
+rdchiral
+tokenizers 
+omegaconf
+sentencepiece
+scikit-learn
